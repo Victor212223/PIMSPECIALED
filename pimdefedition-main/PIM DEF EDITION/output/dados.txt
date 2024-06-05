@@ -1,0 +1,16 @@
+=== Formulario de Cadastro ===
+Nome: Victor
+Empresa: dsdqwe
+CNPJ: dqwdqwqdw
+Telefone: qwdqwddqw
+Endereço: dqwqdwqwd
+Email: dwqqwdqwd
+Cidade: qwdqwdqwd
+=== Formulario de Cadastro ===
+Nome: Gostoso
+Empresa: asddas
+CNPJ: das
+Telefone: asdasd
+Endereço: dasdas
+Email: das
+Cidade: asdasd
